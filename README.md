@@ -1,11 +1,7 @@
-# British-Airways-Data-Science---Forage
+# British-Airways-Data-Science --  Forage
 Two-part British Airways Data Science Virtual Experience covering lounge eligibility modelling and customer booking prediction using Python, data analysis, and Random Forest.
 
 
-
-# British Airways Data Science Virtual Experience ✈️📊
-
-A two-part data science project completed as part of the **British Airways Data Science Virtual Experience on Forage**, focused on applying data analysis, business modelling, and machine learning to real-world airline challenges.
 
 ## 📌 Project Overview
 
